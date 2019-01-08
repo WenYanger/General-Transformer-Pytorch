@@ -3,6 +3,8 @@ Implementation of Transformer for General Usage, like encoding context from sequ
 
 Most of the codes are from Ref.2.
 
+**TEST ON: Python 3.6, Pytorch 0.4.1**
+
 # Mask
 Looks like:
 ```
